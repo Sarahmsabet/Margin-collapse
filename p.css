@@ -1,0 +1,30 @@
+.div-2{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    padding: 2px;
+}
+#p-1{
+    background-color: coral;
+    margin-bottom: 10px;
+}
+#p-2{
+    background-color: indianred;
+    margin-top: 25px;
+}
+#p-3{
+    background-color: coral;
+    margin-bottom: 1rem;
+}
+#p-4{
+    background-color: indianred;
+    margin-top: 3rem;
+}
+#p-5{
+    background-color: coral;
+    margin-bottom: 2em;
+}
+#p-6{
+    background-color: indianred;
+    margin-top: 6em;
+}
